@@ -1,0 +1,12 @@
+addons:
+  apt:
+    packages:
+      - hugo
+      - python-pygments
+
+install:
+  - ls -lah
+
+script:
+  - hugo --theme=ananke
+  - ls -lah public/
