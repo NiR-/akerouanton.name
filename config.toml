@@ -1,0 +1,8 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "fr-fr"
+title = "Albin Kerouanton"
+theme = "ananke"
+pygmentsCodeFences = true
+
+[taxonomies]
+  tag = "tags"
